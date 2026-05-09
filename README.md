@@ -10,7 +10,7 @@ Applied feature engineering and handled missing values
 
 Addressed class imbalance using SMOTE
 
-Built models: Logistic Regression, Decision Tree, Random Forest, CatBoost, XGBoost
+Built models: CatBoost, XGBoost
 
 Evaluated using accuracy, precision, recall, and F1-score
 
